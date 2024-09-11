@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Tamil Selvan</h1>
 
 # 💫 About Me:
-🌱 I’m currently working as web developer<br><br>👨‍💻 All of my projects are available at [https://github.com/Tamilselva-1304](https://github.com/Tamilselva-1304)<br><br>💬 Ask me about Html, CSS, JavaScript, ReactJs, Git & Github.<br><br>📫 How to reach me tamilselvan.paneerselvam@mercu.io<br><br>⚡ Fun fact  code - eat - sleep - repeat....😎🤏
+🌱 I’m currently working as web developer<br><br>👨‍💻 All of my projects are available at [https://github.com/Tamilselva-1304](https://github.com/Tamilselva-1304)<br><br>💬 Ask me about Html, CSS, JavaScript, ReactJs, Git & Github.<br><br>📫 How to reach me tamil@mercu.io<br><br>⚡ Fun fact  code - eat - sleep - repeat....😎🤏
 
 
 ## 🌐 Socials:
